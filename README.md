@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=Reactjs" height="60" alt="bootstrap logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=Python" height="60" alt="bootstrap logo" />
+  <img src="https://skillicons.dev/icons?i=Py" height="60" alt="bootstrap logo" />
 </div>
 
 ###
